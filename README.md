@@ -4,7 +4,7 @@ Bu depo, kullanıcıların film ve TV şovları hakkında bilgi edinmelerini ve 
 
 <h1> Kullanılan Teknolojiler </h1>
 <hr>
-- HTML5 <br>
+-  HTML5 <br>
 
 - CSS <br>
 
